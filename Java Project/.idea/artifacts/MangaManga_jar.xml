@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MangaManga:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MangaManga_jar</output-path>
+    <root id="archive" name="Java Project.jar">
+      <element id="module-output" name="HTTP" />
+      <element id="module-output" name="Java Project" />
+    </root>
+  </artifact>
+</component>
